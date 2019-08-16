@@ -1,2 +1,4 @@
 # hello-word
-Just another repository
+Hi honey!
+
+Let's write code!
