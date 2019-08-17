@@ -1,4 +1,4 @@
 # hello-word
 Hi honey!
 
-Let's write code!
+Let's play code!
